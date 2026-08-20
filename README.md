@@ -35,11 +35,19 @@ Combining living canvas particle visuals with strict single-tap edge-to-edge foc
 
 <div align="center">
 
-| 🌌 Living Aura Home | 🧘 Edge-to-Edge Focus | 📊 Scholar Profile | 🎴 Anime Share Card | 📱 Custom Notification |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="./screenshots/home_screen.png" width="180" alt="Home Screen" /> | <img src="./screenshots/focus_mode.png" width="180" alt="Focus Mode" /> | <img src="./screenshots/profile_screen.png" width="180" alt="Profile Ranks" /> | <img src="./screenshots/share_card.png" width="180" alt="Share Card" /> | <img src="./screenshots/notification_card.png" width="180" alt="Notification Card" /> |
+<img src="https://github.com/user-attachments/assets/0a4f684a-e0e6-41c0-bdb2-be265519bfbe" width="250" alt="Zenith 1"/>
+<img src="https://github.com/user-attachments/assets/981b909c-98da-4d85-ba6a-82fc1b4c5ab6" width="250" alt="Zenith 3"/>
+<img src="https://github.com/user-attachments/assets/b157c7c1-de8e-402f-bcf0-5ff0a05a1481" width="250" alt="Zenith 2"/>
 
-> *Place your screenshots inside the `./screenshots/` directory with the filenames `home_screen.png`, `focus_mode.png`, `profile_screen.png`, `share_card.png`, and `notification_card.png`.*
+<img src="https://github.com/user-attachments/assets/0a790d15-f953-43c2-a9a4-408040dff3ea" width="250" alt="Zenith 10"/>
+<img src="https://github.com/user-attachments/assets/7df24f68-4a9f-494a-9131-518a78ebb66b" width="250" alt="Zenith 4"/>
+<img src="https://github.com/user-attachments/assets/29ea9757-52db-4d28-90d1-f5879da200cf" width="250" alt="Zenith 5"/>
+
+<img src="https://github.com/user-attachments/assets/a4b96948-e130-4946-ba1a-40621721598e" width="250" alt="Zenith 6"/>
+<img src="https://github.com/user-attachments/assets/1ed30d98-29a2-4a9c-a62e-7c132f4b5a4e" width="250" alt="Zenith 7"/>
+<img src="https://github.com/user-attachments/assets/8e7f2066-ded9-4f69-8826-0a13bd00488e" width="250" alt="Zenith 8"/>
+
+<img src="https://github.com/user-attachments/assets/98da50ee-f10f-4963-a842-01cb5f80413e" width="600" alt="Zenith 9"/>
 
 </div>
 
