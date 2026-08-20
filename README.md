@@ -118,13 +118,13 @@ Get the latest production Android build (`.apk`) directly below:
 
 <div align="center">
 
-### 🚀 [Download Zenith v1.0.0 APK](https://github.com/YOUR_GITHUB_USERNAME/Zenith/releases/download/v1.0.0/Zenith-v1.0.0.apk)
+### 🚀 [Download Zenith v1.0.0 APK](https://github.com/Vaibhav-P1/Zenith/releases/download/v1.0.0/Zenith-v1.0.0.apk)
 *(Build Size: ~26 MB | Target: Android 8.0+ / API 26+)*
 
 </div>
 
 ### 📲 How to Install:
-1. Click the **[Download Zenith v1.0.0 APK](https://github.com/YOUR_GITHUB_USERNAME/Zenith/releases/download/v1.0.0/Zenith-v1.0.0.apk)** link above on your Android device.
+1. Click the **[Download Zenith v1.0.0 APK](https://github.com/Vaibhav-P1/Zenith/releases/download/v1.0.0/Zenith-v1.0.0.apk)** link above on your Android device.
 2. Open the downloaded `.apk` file.
 3. If prompted, enable **"Install from unknown sources"** in your browser/file manager settings.
 4. Tap **Install** and open **ZENITH** to launch your first session!
